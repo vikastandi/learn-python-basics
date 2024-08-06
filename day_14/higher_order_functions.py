@@ -55,11 +55,6 @@ def categorize_countries():
 def get_first_ten_countries():
     return countries[:10]
 
-def countries_data_operations():
-    # use the countries_data and perform following operations
-    
-
-
 if __name__ == '__main__':
     higher_order_functions_examples()
     print(get_string_lists([1, 2, 3, 'Asabeneh', 'Python', 'Finland'])) # ['Asabeneh', 'Python', 'Finland']
